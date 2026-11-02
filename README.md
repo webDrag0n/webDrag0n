@@ -1,32 +1,37 @@
-<div align="center">
-  <img src="./assets/hero.gif" alt="Animated banner: Zexin Lin, webDrag0n — AI agents, embodied intelligence, and simulation" width="100%" />
+<h1 align="center">Hi, I'm Zexin Lin 👋</h1>
 
-  <p>
-    <a href="https://webdrag0n.github.io/">Website</a> ·
-    <a href="https://orcid.org/0009-0004-6005-637X">ORCID</a> ·
-    <a href="https://github.com/webDrag0n?tab=repositories">Repositories</a>
-  </p>
-</div>
+<p align="center">
+  <strong>AI PhD @ CUHK-Shenzhen</strong><br>
+  <sub>Exploring how intelligent agents perceive, act, remember, and improve.</sub>
+</p>
 
-### Hi, I'm Zexin 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=25&amp;duration=2600&amp;pause=900&amp;color=5EEAD4&amp;center=true&amp;vCenter=true&amp;width=940&amp;height=64&amp;lines=Autonomous+agents+%26+long-term+memory;Embodied+intelligence+%26+robot+simulation;Simulation+%26+evaluation+for+AI+assistants" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=25&amp;duration=2600&amp;pause=900&amp;color=0F766E&amp;center=true&amp;vCenter=true&amp;width=940&amp;height=64&amp;lines=Autonomous+agents+%26+long-term+memory;Embodied+intelligence+%26+robot+simulation;Simulation+%26+evaluation+for+AI+assistants" alt="Research interests: autonomous agents and long-term memory; embodied intelligence and robot simulation; simulation and evaluation for AI assistants." />
+  </picture>
+</p>
 
-I'm an **AI PhD student at CUHK-Shenzhen** exploring autonomous agents, embodied intelligence, and simulation. I enjoy turning research ideas into systems people can run, inspect, and build on.
+<p align="center">
+  <a href="https://webdrag0n.github.io/">Website</a> ·
+  <a href="https://orcid.org/0009-0004-6005-637X">ORCID</a> ·
+  <a href="https://github.com/webDrag0n?tab=repositories">Repositories</a>
+</p>
 
-你好，我是 webDrag0n。我关注**自主智能体、具身智能与仿真评测**，喜欢把研究想法做成可运行、可观察、可复现的开源项目。
+---
 
-### Selected projects / 代表项目
+### About / 关于我
 
-| Project | What it explores |
-| :--- | :--- |
-| 🧭 **[UserSim](https://github.com/webDrag0n/UserSim)** | A user-behavior simulation platform that combines a rule-based world, LLM user and assistant agents, and a control-theoretic evaluator. <br> 通过用户仿真与控制论指标评测 AI 助手。 |
-| 🧠 **[Alice AI](https://github.com/webDrag0n/Alice-AI)** | A modular autonomous agent framework with persistent memory, tools, continuous perception, and a Minecraft embodiment. <br> 探索长期记忆、工具使用与虚拟世界中的具身交互。 |
-| 🤖 **[Morpheus](https://github.com/webDrag0n/MorpheusFrontend)** | A robot simulation platform built around ROS 2, MuJoCo, and Unity for human–robot collaboration. <br> 面向人机协作的机器人仿真平台。 |
+I work at the intersection of **autonomous agents, embodied intelligence, and evaluation**. I'm interested in agents with memory and tools, environments where they can act, and ways to make their behavior measurable.
 
-### What I work with / 技术方向
+我关注**自主智能体、具身智能与仿真评测**，喜欢把研究想法做成可运行、可观察、可复现的系统。
 
-`Python` · `C#` · `JavaScript`  
-`LLM agents` · `Simulation & evaluation` · `ROS 2` · `MuJoCo` · `Unity`
+### Areas of interest / 研究兴趣
 
-<div align="center">
-  <sub>Curious about agents that can do more than answer — and ways to measure what they actually do.</sub>
-</div>
+- 🧠 **Agent cognition** — long-term memory, tool use, and autonomous behavior
+- 🤖 **Embodied intelligence** — robot simulation and human–robot interaction
+- 📐 **Evaluation** — user simulation, interpretable metrics, and reproducible experiments
+
+### Tools I use / 常用工具
+
+`Python` · `C#` · `JavaScript` · `ROS 2` · `MuJoCo` · `Unity`
